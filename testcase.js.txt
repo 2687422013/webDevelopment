@@ -1,0 +1,6 @@
+let documents ={
+adharCard: ***********0054,
+pancard :268742122013,
+Name: S MaheshGoud,
+profession: fullstack Developer
+}
